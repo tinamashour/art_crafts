@@ -1,0 +1,47 @@
+.top_image {
+  background-image: url("pattern.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  margin-top: 50px;
+  }
+
+.first_title{
+  font-family: Helvetica;
+  font-size: 100px;
+  padding:40px 50px ;
+  color: khaki;
+  font-weight: bold;
+  /* margin: 0 auto; */
+  text-align: center;
+}
+
+.title{
+  font-size: 32px;
+  font-family: Helvetica;
+  color: white;
+  margin-top: 60px ;
+}
+
+#first_id{
+  border-style: solid;
+  background-color: mediumspringgreen;
+}
+#second_id{
+  border-style: solid;
+  background-color: lightcoral;
+}
+
+#third_id{
+  border-style: solid;
+  background-color: skyblue;
+}
+#price{
+  color: #0000FF;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+body{
+  font-family: Helvetica;
+}
